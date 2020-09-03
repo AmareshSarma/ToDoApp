@@ -80,11 +80,6 @@ class App extends React.Component {
                     </li>
                   )
                 })}
-                <li>
-                  <input type="checkbox" name="" id=""/> 
-                  Record Youtube Video 
-                  <button className="btn">Delete</button>
-                </li>
               </ul>
             </div>
           </div>
